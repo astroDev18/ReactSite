@@ -20,7 +20,7 @@ const Navbar = () => {
 
     useEffect(() => {
         showButton();
-    },)
+    }, []);
     return (
         <>
             <IconContext.Provider value={{color: '#fff'}}>
