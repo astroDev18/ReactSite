@@ -27,7 +27,7 @@ export const homeObjTwo = {
         "Once you've joined, our team of specialist will reach out to you and get you set up in minutes.",
     buttonLabel: 'Learn More',
     imgStart: '',
-     img: require('../../images/code_review.svg').default,
+    img: require('../../images/web_developer.svg').default,
     alt: 'Vault',
     start: ''
 };
@@ -45,7 +45,7 @@ export const homeObjThree = {
         "Their team is wonderful! I can't believe I didn't start working with them earlier.",
     buttonLabel: 'View Case Study',
     imgStart: 'start',
-    img: require('../../images/person.jpg').default,
+    img: require('../../images/code_review.svg').default,
     alt: 'Vault',
     start: 'true'
 };
@@ -62,7 +62,7 @@ export const homeObjFour = {
         'You will never have to worry about your information getting leaked. Our team of security experts will ensure your records are kept safe.',
     buttonLabel: 'Sign Up Now',
     imgStart: 'start',
-    img: require('../../images/web_developer.svg').default,
+    img: require('../../images/code_review.svg').default,
     alt: 'Vault',
     start: 'true'
 };
