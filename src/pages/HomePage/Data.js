@@ -66,20 +66,3 @@ export const homeObjFour = {
     alt: 'Vault',
     start: 'true'
 };
-
-export const homeObjFive = {
-    primary: true,
-    lightBg: false,
-    lightTopLine: true,
-    lightText: true,
-    lightTextDesc: true,
-    topLine: 'Secure Database',
-    headline: 'All your data is stored on our secure server',
-    description:
-        'You will never have to worry about your information getting leaked. Our team of security experts will ensure your records are kept safe.',
-    buttonLabel: 'Sign Up Now',
-    imgStart: 'start',
-    img: require('../../images/code_review.svg').default,
-    alt: 'Vault',
-    start: 'true'
-};
